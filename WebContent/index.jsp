@@ -9,5 +9,6 @@
   </head>
   <body>
     <h1>Hello World Merge!</h1>
+    <h2>Hello World Merge Enhancement!</h2>
   </body>
 </html> 
