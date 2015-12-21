@@ -11,5 +11,6 @@
     <h1>Hello World Merge!</h1>
     <h2>Hello World Merge Enhancement!</h2>
     <h2>Added bug fix!</h2>
+    <h3>Added release code</h3>
   </body>
 </html> 
